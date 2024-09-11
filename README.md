@@ -1,3 +1,13 @@
+# Hi, I’m Abdelkader! 👋
+
+I’m a Senior Front-End Engineer with over 8 years of experience specializing in **React**, **Next.js**, and **GraphQL**,**React Native**. I thrive on solving complex problems and building intuitive, scalable web applications. My passion for front-end development has led me to work on various projects, from creating MVPs for educational platforms similar to Udemy at **SmartProfBusiness** to mentoring interns and building custom UI libraries using **React** and **Tailwind CSS**.
+
+I’m always eager to take on new challenges, explore cutting-edge technologies, and collaborate with like-minded developers. Recently, I’ve delved into **3D visualization with Three.js** and **robotics software development**, continuously expanding my expertise.
+
+Currently based in **Canada**, I am open to **remote work** opportunities that allow me to leverage my skills and passion for web development. When I’m not coding, you might find me working on side projects, exploring new technologies, or assisting others in their development journey.
+
+Feel free to check out some of my projects or get in touch!
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aelmaghri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdelElMaghri) 
