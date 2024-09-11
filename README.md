@@ -75,10 +75,5 @@ Feel free to check out some of my projects or get in touch!
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ElMaghri&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=ElMaghri&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
