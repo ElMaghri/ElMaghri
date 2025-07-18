@@ -1,4 +1,3 @@
-https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ZmZjYTgxYWQtZWZhZi00ZTE3LWJlZDEtODZjNzdjZjA2YmU5%40thread.v2%2F0%3Fcontext%3D%257B%2522Tid%2522%3A%2522a073bb30-d65c-4609-9048-f39b878398af%2522%2C%2522Oid%2522%3A%25223611ecb2-1768-4f11-b811-b98fafefaef8%2522%257D%26anon%3Dtrue&type=meetup-join&deeplinkId=fbf3e547-1ed8-4591-a06e-6545ba41a1e6&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
 # Hi, I’m Abdelkader! 👋
 
 I’m a Senior Front-End Engineer with over 8 years of experience specializing in **React**, **Next.js**, and **GraphQL**,**React Native**. I thrive on solving complex problems and building intuitive, scalable web applications. My passion for front-end development has led me to work on various projects, from creating MVPs for educational platforms similar to Udemy at **SmartProfBusiness** to mentoring interns and building custom UI libraries using **React** and **Tailwind CSS**.
